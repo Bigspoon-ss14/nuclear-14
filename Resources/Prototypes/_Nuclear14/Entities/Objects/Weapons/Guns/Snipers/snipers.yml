@@ -688,7 +688,8 @@
             - N14Cartridge308Rifle
   - type: StaticPrice
     price: 175
-
+  - type: FollowDistance
+    backStrength: 3 # Forge-Change
 # Forge-add-start
 - type: entity
   name: 308 Sniper Rifle

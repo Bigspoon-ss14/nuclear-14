@@ -94,7 +94,7 @@
       types:
         Blunt: 34
   - type: StaminaDamageOnHit
-    damage: 10
+    damage: 5 # Forge-Change
   - type: StaticPrice
     price: 10
 

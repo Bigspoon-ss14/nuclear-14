@@ -145,7 +145,7 @@
   description: A true freedom fighter carries his flag everywhere, even on his gun. Uses .44 magnum ammo.
   components:
   - type: Gun
-    fireRate: 2
+    fireRate: 3 # Forge-Change
     resetOnHandSelected: false
     soundGunshot:
       collection: N14RevolverMagnunGunshot
