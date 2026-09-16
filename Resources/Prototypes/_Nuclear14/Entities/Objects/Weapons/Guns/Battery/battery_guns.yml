@@ -987,7 +987,7 @@
     maxAngle: 12
     angleIncrease: 4
     angleDecay: 12
-    fireRate: 4
+    fireRate: 3 #Fogre change
     soundGunshot:
       collection: N14PlasmaCasterGunshot
     selectedMode: FullAuto
