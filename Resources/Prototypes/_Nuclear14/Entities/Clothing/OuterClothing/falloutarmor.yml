@@ -855,8 +855,8 @@
     reflectProb: 0.05
     spread: 150
   - type: ClothingSpeedModifier
-    walkModifier: 0.90
-    sprintModifier: 0.90
+    walkModifier: 0.92
+    sprintModifier: 0.92
 
 # Forge-Delete-Start
 # - type: entity
