@@ -250,7 +250,6 @@
   - type: StaticPrice
     price: 500
 
-#Forge add start
 - type: entity
   name: L-86
   parent: N14WeaponRifleBase
@@ -302,5 +301,4 @@
           tags:
             - N14Cartridge545Rifle
   - type: StaticPrice
-    price: 100
-#Forge add start   
+    price: 100 
